@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>My VidCache Podcast</title>
+    <link>https://raw.githubusercontent.com/ghankerson/vidcache-pod/main/</link>
+    <description>YouTube videos converted to audio via VidCache</description>
+    <lastBuildDate>Sat, 16 May 2026 13:48:17 -0500</lastBuildDate>
+    <item>
+      <title>Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)</title>
+      <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+      <guid isPermaLink="false">dQw4w9WgXcQ</guid>
+      <pubDate>Sat, 16 May 2026 13:48:17 -0500</pubDate>
+      <description>The official video for “Never Gonna Give You Up” by Rick Astley. 
+
+Never: The Autobiography 📚 OUT NOW! 
+Follow this link to get your copy and listen to Rick’s ‘Never’ playlist ❤️ #RickAstleyNever
+http...</description>
+      <enclosure url="https://raw.githubusercontent.com/ghankerson/vidcache-pod/main/Rick_Astley_-_Never_Gonna_Give_You_Up_Official_Video_4K_Remaster.m4a" length="3452153" type="audio/m4a"/>
+    </item>
+  </channel>
+</rss>
