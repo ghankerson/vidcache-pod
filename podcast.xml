@@ -1,20 +1,20 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Sun, 17 May 2026 10:19:19 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:55:06 -0500</lastBuildDate>
     <item>
       <title>5 Retirement Books I Actually Recommend to My $1M+ Clients</title>
       <link>https://www.youtube.com/watch?v=rPVlLZMk9us</link>
       <guid isPermaLink="false">rPVlLZMk9us</guid>
       <pubDate>Sat, 16 May 2026 13:58:02 -0500</pubDate>
       <description>The 5 best retirement books I actually recommend to my $1M+ clients (and the 1 bestseller I'd take off your shelf) — including Die With Zero by Bill Perkins, How to Retire by Christine Benz, and the R...</description>
-      <enclosure url="https://drive.google.com/uc?id=1nKxr5-GNWgOjsbvnChxfkleKAfk4X-SF&amp;export=download" length="16715402" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1nKxr5-GNWgOjsbvnChxfkleKAfk4X-SF&amp;export=download" length="16715402" type="audio/m4a" />
     </item>
     <item>
-      <title>&quot;Definitely Going To Be A Big Evaluation Summer.” | Chris Finch Exit Interview | 05.16.26</title>
+      <title>"Definitely Going To Be A Big Evaluation Summer.” | Chris Finch Exit Interview | 05.16.26</title>
       <link>https://www.youtube.com/watch?v=FkyOfKyV5PI</link>
       <guid isPermaLink="false">FkyOfKyV5PI</guid>
       <pubDate>Sat, 16 May 2026 13:58:05 -0500</pubDate>
@@ -25,7 +25,7 @@ Stay connected with all things Timberwolves:
 TWITTER » https://twitter.com/Timberwolves
 INSTAGRAM » https://www.instagram.com/timberwolves/
 FACEBOOK » https://...</description>
-      <enclosure url="https://drive.google.com/uc?id=1WAxF4mLz6wj-Yf87PBC1doSF5t16FrbK&amp;export=download" length="18576285" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1WAxF4mLz6wj-Yf87PBC1doSF5t16FrbK&amp;export=download" length="18576285" type="audio/m4a" />
     </item>
     <item>
       <title>What I'd Tell My 30-Year-Old Self About RETIRING ON $500K</title>
@@ -33,7 +33,7 @@ FACEBOOK » https://...</description>
       <guid isPermaLink="false">Vfh5r5ennIs</guid>
       <pubDate>Sat, 16 May 2026 13:58:07 -0500</pubDate>
       <description>Ohhhh what I'd give for a do over. If I started investing at 30 instead of 40 I'd be much better off than just a $500K retirement. Here are 10 things I'd tell my 30-year-old self about retiring on $50...</description>
-      <enclosure url="https://drive.google.com/uc?id=10NkIHLHHxGlC7eD-9iH1OyzUehPpZsKy&amp;export=download" length="10699606" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=10NkIHLHHxGlC7eD-9iH1OyzUehPpZsKy&amp;export=download" length="10699606" type="audio/m4a" />
     </item>
     <item>
       <title>Budget Desktop Speakers Battle – Which Sounds the Best?</title>
@@ -41,7 +41,7 @@ FACEBOOK » https://...</description>
       <guid isPermaLink="false">3Y0pkLOaOcQ</guid>
       <pubDate>Sat, 16 May 2026 13:58:10 -0500</pubDate>
       <description>This video provides recommendations for five speakers ideal for nearfield monitoring, listening to music, playing video games or even watching TV. I focus on the key highlights of each model, drawing ...</description>
-      <enclosure url="https://drive.google.com/uc?id=1JeMtisdXqM4hmNR0J2eqFpgc8s5m_lQ7&amp;export=download" length="11043496" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1JeMtisdXqM4hmNR0J2eqFpgc8s5m_lQ7&amp;export=download" length="11043496" type="audio/m4a" />
     </item>
     <item>
       <title>The Frustrations of Retirement Math</title>
@@ -51,7 +51,7 @@ FACEBOOK » https://...</description>
       <description>Retirement math looks great on a spreadsheet, but real life doesn’t happen in a spreadsheet.
 
 It’s easy to plan for the monthly bills, but what happens when the roof starts aging, a window A/C unit ge...</description>
-      <enclosure url="https://drive.google.com/uc?id=154aoMQz9aovPIs2831OXUiS8A0XcNZ0s&amp;export=download" length="6562889" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=154aoMQz9aovPIs2831OXUiS8A0XcNZ0s&amp;export=download" length="6562889" type="audio/m4a" />
     </item>
     <item>
       <title>Chaos Is Coming For The Timberwolves...</title>
@@ -59,7 +59,7 @@ It’s easy to plan for the monthly bills, but what happens when the roof starts
       <guid isPermaLink="false">0C8K9gcsUA8</guid>
       <pubDate>Sat, 16 May 2026 13:58:15 -0500</pubDate>
       <description>The Minnesota Timberwolves season is over after a 2nd round loss to the San Antonio Spurs in the NBA playoffs, and some big changes could be on the way this offseason around Anthony Edwards including ...</description>
-      <enclosure url="https://drive.google.com/uc?id=1-tMOTXZieR_BbEdb-vEzjrq1dvLLXU9W&amp;export=download" length="19223325" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1-tMOTXZieR_BbEdb-vEzjrq1dvLLXU9W&amp;export=download" length="19223325" type="audio/m4a" />
     </item>
     <item>
       <title>still waiting for the retired version of me to show up 🤨</title>
@@ -67,7 +67,7 @@ It’s easy to plan for the monthly bills, but what happens when the roof starts
       <guid isPermaLink="false">nLt53tNXZFE</guid>
       <pubDate>Sat, 16 May 2026 13:58:18 -0500</pubDate>
       <description>Six months into retirement and I'm still waiting for the retired version of me to show up. You know the one — she has a routine, she remembers her Wednesday afternoon appointments, she's got a pickleb...</description>
-      <enclosure url="https://drive.google.com/uc?id=1BWaL_Evls89RP-NHf5kIrcs_OkSqudhb&amp;export=download" length="8515418" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1BWaL_Evls89RP-NHf5kIrcs_OkSqudhb&amp;export=download" length="8515418" type="audio/m4a" />
     </item>
     <item>
       <title>I Quit the Rat Race at 53 With Only £20k Saved (Here’s What Happened Next)</title>
@@ -78,7 +78,7 @@ It’s easy to plan for the monthly bills, but what happens when the roof starts
 https://waynephipps.com/pressure-audit
 
 It helps you see whether you still feel in control of your time, energy ...</description>
-      <enclosure url="https://drive.google.com/uc?id=1vipusavusLMLR10HjQZAK8ckJPwUzeHC&amp;export=download" length="23308697" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1vipusavusLMLR10HjQZAK8ckJPwUzeHC&amp;export=download" length="23308697" type="audio/m4a" />
     </item>
     <item>
       <title>Your Savings Don't Matter: Here's The Secret To Your Dream Retirement</title>
@@ -89,7 +89,7 @@ It helps you see whether you still feel in control of your time, energy ...</des
 
 Free Calculator: Please click file - Make a copy. It will keep the formulas intact.
 https://docs.google.com/spreadsheets/d/1...</description>
-      <enclosure url="https://drive.google.com/uc?id=1O8JZR_pobR1lOfOTQ7t4XJga7R0X0yxn&amp;export=download" length="9951144" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1O8JZR_pobR1lOfOTQ7t4XJga7R0X0yxn&amp;export=download" length="9951144" type="audio/m4a" />
     </item>
     <item>
       <title>The 3 Net Worth Milestones That Change Everything</title>
@@ -97,7 +97,7 @@ https://docs.google.com/spreadsheets/d/1...</description>
       <guid isPermaLink="false">pu7UaN3FemE</guid>
       <pubDate>Sat, 16 May 2026 13:58:28 -0500</pubDate>
       <description>Discover the crucial tipping points that can accelerate your net worth growth and financial freedom in this video. Learn when your net worth explodes by understanding key milestones, wealth-building s...</description>
-      <enclosure url="https://drive.google.com/uc?id=1F6uzRcH_E-BfzNX--y66PZqSFn5uNQqA&amp;export=download" length="20504367" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1F6uzRcH_E-BfzNX--y66PZqSFn5uNQqA&amp;export=download" length="20504367" type="audio/m4a" />
     </item>
     <item>
       <title>Work SUCKS! Don't quit! Make it suck LESS with this advice.</title>
@@ -105,7 +105,7 @@ https://docs.google.com/spreadsheets/d/1...</description>
       <guid isPermaLink="false">8IWKT5TUlg8</guid>
       <pubDate>Sat, 16 May 2026 13:58:30 -0500</pubDate>
       <description>Hate your job? You’re not alone. But before you quit or dream about retirement, there’s a smarter way to take control of your work and life. In this video, I’ll share key strategies to help you change...</description>
-      <enclosure url="https://drive.google.com/uc?id=1TuOpngxtPnt_Cy8BlQYVb-hRxnfM3HYc&amp;export=download" length="8903760" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1TuOpngxtPnt_Cy8BlQYVb-hRxnfM3HYc&amp;export=download" length="8903760" type="audio/m4a" />
     </item>
     <item>
       <title>7 Ways to Actually Measure Your Risk (Most Investors Get This Wrong) (Clip)</title>
@@ -118,7 +118,7 @@ Some of my favorite books: https://amzn.to/3KF3tlr
 Camera &amp; equipment I use: https://amzn.to/3Z20lof
 
 Disclaimer: Please note that this video i...</description>
-      <enclosure url="https://drive.google.com/uc?id=1ZElreuu-s5lXOSuEwOqFi3WBlczIE4pI&amp;export=download" length="9522452" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1ZElreuu-s5lXOSuEwOqFi3WBlczIE4pI&amp;export=download" length="9522452" type="audio/m4a" />
     </item>
     <item>
       <title>Stop Sabotaging your Boldin Success Score - Do this Instead</title>
@@ -128,7 +128,7 @@ Disclaimer: Please note that this video i...</description>
       <description>🔗 https://go.boldin.com/reflectionsandrealtalk (personalized affiliate link)
 
 Link mentioned in video for charitable giving and Donor Advised Funds: https://help.boldin.com/en/articles/11661443-how-do...</description>
-      <enclosure url="https://drive.google.com/uc?id=1iDV-GGjbdX--1AIYcXEbKgqFzgnfR7l3&amp;export=download" length="18099912" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1iDV-GGjbdX--1AIYcXEbKgqFzgnfR7l3&amp;export=download" length="18099912" type="audio/m4a" />
     </item>
     <item>
       <title>When a Roth Conversion Makes NO Sense (And Why It Depends)</title>
@@ -136,7 +136,7 @@ Link mentioned in video for charitable giving and Donor Advised Funds: https://h
       <guid isPermaLink="false">ZAbsyRr2cCw</guid>
       <pubDate>Sat, 16 May 2026 13:58:40 -0500</pubDate>
       <description>In this video, Erin Moriarity of Erin Talks Money breaks down the real truth about Roth conversions, and explains why a Roth conversion is not always the best retirement planning move, despite what ma...</description>
-      <enclosure url="https://drive.google.com/uc?id=1dQ3uaXbWB6FwFxYSch6xQU5h5xYPIDXn&amp;export=download" length="16084563" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1dQ3uaXbWB6FwFxYSch6xQU5h5xYPIDXn&amp;export=download" length="16084563" type="audio/m4a" />
     </item>
     <item>
       <title>The 4% Rule is DEAD (Retirement Just Changed Forever!)</title>
@@ -149,7 +149,7 @@ ______________
 
 
 Bill Bengen created the 4% safe withdrawal rule for re...</description>
-      <enclosure url="https://drive.google.com/uc?id=1htuaF6s8gk2jyDS_46oVFCda_nOxwFGN&amp;export=download" length="9588056" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=1htuaF6s8gk2jyDS_46oVFCda_nOxwFGN&amp;export=download" length="9588056" type="audio/m4a" />
     </item>
     <item>
       <title>Who Really Gets to “Choose” When They Retire (And Who Doesn’t)</title>
@@ -157,7 +157,224 @@ Bill Bengen created the 4% safe withdrawal rule for re...</description>
       <guid isPermaLink="false">zp01NVtCkSA</guid>
       <pubDate>Sat, 16 May 2026 13:58:48 -0500</pubDate>
       <description>In this in-depth video on Erin Talks Money, Erin Moriarity breaks down one of the biggest myths about retirement in America — that wealthy Americans retire early while lower-income workers keep workin...</description>
-      <enclosure url="https://drive.google.com/uc?id=17CxwecbR4AVW-8z-pLStS1Np9BpeQ9Kn&amp;export=download" length="20414613" type="audio/m4a"/>
+      <enclosure url="https://drive.google.com/uc?id=17CxwecbR4AVW-8z-pLStS1Np9BpeQ9Kn&amp;export=download" length="20414613" type="audio/m4a" />
+    </item>
+    <item>
+      <title>How I Pay Myself in Retirement</title>
+      <link>https://www.youtube.com/watch?v=p9r2j0tCkpc</link>
+      <guid isPermaLink="false">p9r2j0tCkpc</guid>
+      <pubDate>Sun, 17 May 2026 10:46:39 -0500</pubDate>
+      <description>How do you actually pay your bills in retirement without a paycheck? In this video, I walk through my simple withdrawal strategy and bucket system that helps me manage cash flow, avoid selling investm...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1_-mICUJ5uIpJGyTy3BtqQoym2BlTxTLX&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1FMx474nr08NzgCbzr5REPc0L-UUhUG4D&amp;export=download" length="8092551" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Retire on $6,000 a Month? Here's What Nobody Tells You</title>
+      <link>https://www.youtube.com/watch?v=w27_ElS1twI</link>
+      <guid isPermaLink="false">w27_ElS1twI</guid>
+      <pubDate>Sun, 17 May 2026 10:47:01 -0500</pubDate>
+      <description>Can you actually live on $6,000 a month in retirement income — and if so, what does it truly require? In this video, I break down the exact income sources, savings targets, and retirement planning str...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1na-miKmbTL-O1926tUYhQmj2uXW3CHn5&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1ZF0NtitfXfb5YGO_OXcN1kcNk1mXmmrS&amp;export=download" length="11380211" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Time For DRASTIC Trades!</title>
+      <link>https://www.youtube.com/watch?v=vkxD4AsccaA</link>
+      <guid isPermaLink="false">vkxD4AsccaA</guid>
+      <pubDate>Sun, 17 May 2026 10:47:25 -0500</pubDate>
+      <description>In this video Trevor Lane and Donnie Freeman take a look at the drastic changes that the Wolves need to make with vibes around the team suddenly sounding awful...
+
+Check out the OFFICIAL Basketball Bu...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1yd9x0t3Unt7dKjHfoHwZ0oPTrdPRPUky&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=12NZsg5AlDGnvgJm_olRxhBaQ5LmaxJCR&amp;export=download" length="30299732" type="audio/m4a" />
+    </item>
+    <item>
+      <title>I Quit My Job in America 🇺🇸 &amp; Never Went Back | $380/Month Condo Tour &amp; Visa Talk</title>
+      <link>https://www.youtube.com/watch?v=UXhTJNFdVi4</link>
+      <guid isPermaLink="false">UXhTJNFdVi4</guid>
+      <pubDate>Sun, 17 May 2026 10:47:52 -0500</pubDate>
+      <description>In this episode, we tour the complex and a $380 condo then sit down with ‪Quenton to hear his life journey and  how he has navigated a life abroad.
+
+Links:
+ https://www.themasteroracle.com
+ https://ww...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1YlpEjgqjf3vOUEM0Bfgq3cwgYtdI9OXf&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1Q0wDOTVLzvrlzfJaz5YtdkR8q8N_gHuU&amp;export=download" length="77661348" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Is $1 Million Enough to Retire?</title>
+      <link>https://www.youtube.com/watch?v=N9iczPTmfm8</link>
+      <guid isPermaLink="false">N9iczPTmfm8</guid>
+      <pubDate>Sun, 17 May 2026 10:48:20 -0500</pubDate>
+      <description>💵 Create a free Budget - Sign up for EveryDollar today! https://ter.li/ubldyt
+
+Is $1 Million Enough to Retire?
+Handy-Dandy Investment Calculator: https://www.ramseysolutions.com/retirement/investment-...</description>
+      <itunes:image href="https://drive.google.com/uc?id=17ixQdws1yVYjB3NT6VuHCCxmpdyYirxq&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1HqVfTvpvhkIljfgbCvrF6FiBvH8bNROG&amp;export=download" length="10979101" type="audio/m4a" />
+    </item>
+    <item>
+      <title>I Run a Record Store… Here’s What Happens Every Day</title>
+      <link>https://www.youtube.com/watch?v=S68245gYi4Y</link>
+      <guid isPermaLink="false">S68245gYi4Y</guid>
+      <pubDate>Sun, 17 May 2026 10:48:38 -0500</pubDate>
+      <description>I run a successful record store in small town America. Let's talk about how I got started, what life is like now, and how you could open your own store.
+
+#recordstore #vinyl #smallbusiness 
+
+Follow De...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1lkIfs3YeqaO11Nc_UuTC6hkIA7e50RR-&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1KfusHgM5125NAPsoMQddzOZXVZXUWIkS&amp;export=download" length="25222563" type="audio/m4a" />
+    </item>
+    <item>
+      <title>What do Timberwolves do next? Trade Rudy Gobert or Julius Randle?</title>
+      <link>https://www.youtube.com/watch?v=s71X5e6alzc</link>
+      <guid isPermaLink="false">s71X5e6alzc</guid>
+      <pubDate>Sun, 17 May 2026 10:48:53 -0500</pubDate>
+      <description>Jason reacts to the Minnesota Timberwolves being eliminated from the NBA playoffs by the San Antonio Spurs and discusses what they should do next to build around Anthony Edwards and what trade options...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1h-5Cqkybfyq8voUO5X71kCzy-XdI98CA&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1DdYF6Sg5mMqA4hq2EnrTHjJsGlcekKDz&amp;export=download" length="9536952" type="audio/m4a" />
+    </item>
+    <item>
+      <title>10 years of investing | my exact portfolio &amp; how much i've made 📈</title>
+      <link>https://www.youtube.com/watch?v=GwPat-VScaY</link>
+      <guid isPermaLink="false">GwPat-VScaY</guid>
+      <pubDate>Sun, 17 May 2026 10:49:16 -0500</pubDate>
+      <description>now this is a story all about how,
+five bucks grew into six figures somehow
+
+in this video, i’m breaking down the good, the bad, &amp; the ugly of my 10-year investing journey. plus i'll show which accoun...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1FiazEW6ytWSz521EHOcBW7kpuZnhtSyg&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1ERF5xyXoT39fY6Z6Jp5URCAKhwfTKNtB&amp;export=download" length="33789533" type="audio/m4a" />
+    </item>
+    <item>
+      <title>How I Survived my first 6 months of Retirement (I wasn't ready!)</title>
+      <link>https://www.youtube.com/watch?v=KVYxXRGOJU8</link>
+      <guid isPermaLink="false">KVYxXRGOJU8</guid>
+      <pubDate>Sun, 17 May 2026 10:49:32 -0500</pubDate>
+      <description>I spent 34 years in the grind. I did the research, I watched the videos, and I thought I had this whole "transition into retirement" thing figured out.
+
+After 6 months of being retired, I’ve realized ...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1E-f80_pE33aIgftxuRX7-mjtuwfIpd4Z&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1SYNo8TUOo_38LUSFTgqRO6L7_kCPqOpE&amp;export=download" length="9038531" type="audio/m4a" />
+    </item>
+    <item>
+      <title>The Reason Why Older Records Sound Better</title>
+      <link>https://www.youtube.com/watch?v=4AhNOAudVhI</link>
+      <guid isPermaLink="false">4AhNOAudVhI</guid>
+      <pubDate>Sun, 17 May 2026 10:49:54 -0500</pubDate>
+      <description>What is the reason why older records sound better? It's not just about how music was recorded on analog tape, there were other technical factors that had a bigger impact.  And it wasn't  just the gear...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1T58UWfrOwVGJvU4608wQoDYr4EwTRE-b&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1NIuRwRZZzD-u_bDN5rgZ5AmNiGvYllyT&amp;export=download" length="24676351" type="audio/m4a" />
+    </item>
+    <item>
+      <title>TIPS vs I Bonds--What's the Best Way to Hedge Against Inflation?</title>
+      <link>https://www.youtube.com/watch?v=MlSkdslNZVc</link>
+      <guid isPermaLink="false">MlSkdslNZVc</guid>
+      <pubDate>Sun, 17 May 2026 10:50:15 -0500</pubDate>
+      <description>Sallie Mae 14-Month No-Penalty CD now at 2.50% (via SaveBetter): https://go.robberger.com/sallie-mae-14-no-penalty-cd/yt-tips-vs-ibonds
+
+TIPS (Treasury Inflation Protected Securities) and I Bonds both...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1_vDf5QUSxPRnwSTWp1tdz8SGArRcc6-h&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1MIyP_mNI_8GXknb9L2mE3Y8iEGNJraeh&amp;export=download" length="15186326" type="audio/m4a" />
+    </item>
+    <item>
+      <title>I Replaced My Financial Advisor with Claude (Full Tutorial)</title>
+      <link>https://www.youtube.com/watch?v=VvuHr46wF-4</link>
+      <guid isPermaLink="false">VvuHr46wF-4</guid>
+      <pubDate>Sun, 17 May 2026 10:50:32 -0500</pubDate>
+      <description>Sign up for the MHC newsletter to unlock the system prompt &amp; assets from this video:
+👉 https://milesdeutscher.com.au/
+
+FOLLOW THESE STEPS:
+
+1. Subscribe to my newsletter (100% free, no spam ever, unsu...</description>
+      <itunes:image href="https://drive.google.com/uc?id=16c254daXcD-1S07IXMUzcWYKownw_CBy&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1guBAooCiAh1nlz0C8y80aVKTH_2hH0m1&amp;export=download" length="22480280" type="audio/m4a" />
+    </item>
+    <item>
+      <title>$10,000/Month From $1M Without Selling a Share</title>
+      <link>https://www.youtube.com/watch?v=1-DiaQrDbtE</link>
+      <guid isPermaLink="false">1-DiaQrDbtE</guid>
+      <pubDate>Sun, 17 May 2026 10:50:54 -0500</pubDate>
+      <description>#retirementstrategy #incomeinvesting #financialfreedom 
+What if you could pull $10,000+ a month from a $1 million portfolio — and never sell a single share? In this video, I break down a portfolio tha...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1xdQX96O6Eo7fZy8kL749-kxKgkcUUKVR&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1ttyAeoSRU_Jr9mA0ci1AGFH9YzeSRUWm&amp;export=download" length="14384026" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Retire as Soon as You Responsibly Can (Here’s Why)</title>
+      <link>https://www.youtube.com/watch?v=mXmdjdRZnbs</link>
+      <guid isPermaLink="false">mXmdjdRZnbs</guid>
+      <pubDate>Sun, 17 May 2026 10:51:16 -0500</pubDate>
+      <description>If you’re over 50 and you’ve been quietly thinking, “Should I retire sooner than I planned?”—this video is for you.
+
+In today’s episode, we’re talking about why retiring as soon as you financially and...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1n8rDkEdzU7RBuT1GjefEFY3X_98DywQJ&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1PiNithjr2oM03BNFMIKLe7w8lvCbNYqN&amp;export=download" length="12564069" type="audio/m4a" />
+    </item>
+    <item>
+      <title>5 Investments That Made Me A Millionaire By 35</title>
+      <link>https://www.youtube.com/watch?v=qWlfamqhM_0</link>
+      <guid isPermaLink="false">qWlfamqhM_0</guid>
+      <pubDate>Sun, 17 May 2026 10:51:38 -0500</pubDate>
+      <description>*Download your free Ultimate Index Fund Cheatsheet here → https://bit.ly/4s7tdKN* 
+
+If you’re new here, hi! I’m Rose Han, bestselling author of Add A Zero, and my mission is to help you master your mo...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1gG8R6omiaxHwPPBMV0OBSiulLdVzjRjj&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1k3GLu_99atCcnxmIfUbYOssXscTUg6j7&amp;export=download" length="14311837" type="audio/m4a" />
+    </item>
+    <item>
+      <title>How to Create a 3 Fund Portfolio | A Beginner's Guide</title>
+      <link>https://www.youtube.com/watch?v=kmw8OpGp2rM</link>
+      <guid isPermaLink="false">kmw8OpGp2rM</guid>
+      <pubDate>Sun, 17 May 2026 10:52:02 -0500</pubDate>
+      <description>Sallie Mae 14-Month No-Penalty CD now at 2.50% (via SaveBetter): https://go.robberger.com/sallie-mae-14-no-penalty-cd/yt-
+
+3-Fund Portfolio: https://go.robberger.com/3-fund-portfolio/yt-
+4-Fund Portfo...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1SkSJ7R9LZCZuqIZ5OVZQdKZgy2j1GE6T&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1I4TWr54lLqsBDYYDwy-rvogibjss1QN6&amp;export=download" length="30336087" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Retired And I Don't Know What I Like Anymore</title>
+      <link>https://www.youtube.com/watch?v=7GU66r-jGYU</link>
+      <guid isPermaLink="false">7GU66r-jGYU</guid>
+      <pubDate>Sun, 17 May 2026 10:52:24 -0500</pubDate>
+      <description>There's a moment that almost nobody warns you about.
+
+It happens somewhere between "I just retired" and "what do I do with myself now." Someone asks what you want to do with your afternoon, and for th...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1mrsixojEnTv-8cNy8TDfr9SZmrYFsSwv&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1w3H5p_iRMwK33_CBCDwUnZags3pE-OmY&amp;export=download" length="9681478" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Everything Changes at $1.5 Million in Retirement — Most Savers Work Years They'll Never Get Back</title>
+      <link>https://www.youtube.com/watch?v=lwUg_knKlq0</link>
+      <guid isPermaLink="false">lwUg_knKlq0</guid>
+      <pubDate>Sun, 17 May 2026 10:52:42 -0500</pubDate>
+      <description>If you have $1.5 million saved and you're still telling yourself "I'm not ready to retire" — there's a good chance the math you're running is wrong.Most savers look at their monthly expenses and assum...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1cxThHXDsntzebJRHFu21fZ6npluprlh4&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1LsfP0IbF3ou1N9JMTnKB2J--MjWAFyt8&amp;export=download" length="12073010" type="audio/m4a" />
+    </item>
+    <item>
+      <title>My Exact ETF Portfolio That Made Me $624,945 by 25 (Just Copy It)</title>
+      <link>https://www.youtube.com/watch?v=CWcVzy5LohU</link>
+      <guid isPermaLink="false">CWcVzy5LohU</guid>
+      <pubDate>Sun, 17 May 2026 10:52:58 -0500</pubDate>
+      <description>My Free 5 Steps to Investing Checklist! https://bit.ly/4rZRWQn 👈
+
+I’m sharing the exact ETF portfolio strategy I used to grow my investments and make $624,945 by the age of 24. I break down which ETFs...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1biaB1BKpgQbobkUYz9EIavzqNvZMOSdk&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1r7SJTeOLdmICAC0u17xoFQ3ajcaQ73JI&amp;export=download" length="17263325" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Why I Keep Telling People to Buy 50 Year Old Speakers</title>
+      <link>https://www.youtube.com/watch?v=oFZ6ls0821E</link>
+      <guid isPermaLink="false">oFZ6ls0821E</guid>
+      <pubDate>Sun, 17 May 2026 10:53:19 -0500</pubDate>
+      <description>Vintage speakers might be the biggest bargain left in hi-fi — and in this video, we explain exactly why. From Pioneer, JBL, Klipsch, Advent, Boston Acoustics, AR, Bose, and more, we dive into the stra...</description>
+      <itunes:image href="https://drive.google.com/uc?id=1DNV6DHLYQdEFAZpgPkcsL7mvZ6bqeBde&amp;export=download" />
+      <enclosure url="https://drive.google.com/uc?id=1F0eUXcf-QiU2xkTISF5FxwM2jcggqk6L&amp;export=download" length="13299707" type="audio/m4a" />
     </item>
   </channel>
 </rss>
