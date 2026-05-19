@@ -4,7 +4,7 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Mon, 18 May 2026 12:54:54 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:30:44 -0500</lastBuildDate>
     <itunes:image href="https://i.ytimg.com/vi/rPVlLZMk9us/maxresdefault.jpg" />
     <item>
       <title>5 Retirement Books I Actually Recommend to My $1M+ Clients</title>
@@ -1075,6 +1075,41 @@ Get access to the same software I use for my clients and join the Early Retireme
       <description>Most retirement plans are built around two dates: 65 for Medicare and 67 for full Social Security benefits. Those dates are policy anchors, not financial conclusions. The actual retirement threshold —...</description>
       <itunes:image href="https://i.ytimg.com/vi/_Jm2L6Britg/maxresdefault.jpg" />
       <enclosure url="https://drive.google.com/uc?id=1cdJtHGONOl2yZ8X4dHeAbE8Nu2zcPP7m&amp;export=download" length="11932457" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Your Best Years Are Worth More Than a Bigger Paycheck</title>
+      <link>https://www.youtube.com/watch?v=PWSKapnecdI</link>
+      <guid isPermaLink="false">PWSKapnecdI</guid>
+      <pubDate>Tue, 19 May 2026 15:29:50 -0500</pubDate>
+      <description>Everyone tells you to wait on Social Security. Wait until 67. Wait until 70. Let it grow.
+But what if waiting is actually the wrong call for you?
+In this video, I'm breaking down the less obvious reas...</description>
+      <itunes:image href="https://i.ytimg.com/vi/PWSKapnecdI/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=14TCH28ICkCqr5138JWio3K9ZSnWWNjD4&amp;export=download" length="10855161" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Audiophile reclocker review. Is this snake oil?</title>
+      <link>https://www.youtube.com/watch?v=CqqHGjsuOTQ</link>
+      <guid isPermaLink="false">CqqHGjsuOTQ</guid>
+      <pubDate>Tue, 19 May 2026 15:30:07 -0500</pubDate>
+      <description>If you’ve been hearing audiophiles talk about “reclockers” and wondering if they actually improve sound quality, this video is for you. Today we’re breaking down what an audiophile reclocker does, how...</description>
+      <itunes:image href="https://i.ytimg.com/vi/CqqHGjsuOTQ/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1o3G3rHfFalMu1ZjqL83Hn2oUM0q-cn4v&amp;export=download" length="21060355" type="audio/m4a" />
+    </item>
+    <item>
+      <title>NO MORE GRIND—The Gen X Escape Plan By Age 62</title>
+      <link>https://www.youtube.com/watch?v=u20LTIJ9uJs</link>
+      <guid isPermaLink="false">u20LTIJ9uJs</guid>
+      <pubDate>Tue, 19 May 2026 15:30:30 -0500</pubDate>
+      <description>Are you Gen X and wondering if you can retire at 62?
+
+How much money do I need to retire at 62? 
+
+Are you tired of the "grind" and wondering if you're stuck working until 70? 
+
+The retirement industry...</description>
+      <itunes:image href="https://i.ytimg.com/vi/u20LTIJ9uJs/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1n4TkBMh8uELPMQJ-ZBc9E1y-XNtsdp7M&amp;export=download" length="17685855" type="audio/m4a" />
     </item>
   </channel>
 </rss>
