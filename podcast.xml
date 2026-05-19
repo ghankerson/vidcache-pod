@@ -4,7 +4,7 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Tue, 19 May 2026 15:30:44 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:37:50 -0500</lastBuildDate>
     <itunes:image href="https://i.ytimg.com/vi/rPVlLZMk9us/maxresdefault.jpg" />
     <item>
       <title>5 Retirement Books I Actually Recommend to My $1M+ Clients</title>
@@ -1110,6 +1110,35 @@ Are you tired of the "grind" and wondering if you're stuck working until 70?
 The retirement industry...</description>
       <itunes:image href="https://i.ytimg.com/vi/u20LTIJ9uJs/maxresdefault.jpg" />
       <enclosure url="https://drive.google.com/uc?id=1n4TkBMh8uELPMQJ-ZBc9E1y-XNtsdp7M&amp;export=download" length="17685855" type="audio/m4a" />
+    </item>
+    <item>
+      <title>YouTube vs. Minimum Wage: The Better Retirement Side Hustle? (My $1,932 Result)</title>
+      <link>https://www.youtube.com/watch?v=Wxc5JYtrZpg</link>
+      <guid isPermaLink="false">Wxc5JYtrZpg</guid>
+      <pubDate>Tue, 19 May 2026 16:36:51 -0500</pubDate>
+      <description>Can you really make more money on YouTube than a traditional part-time job during retirement? In this video, I’m putting a $16.70/hour minimum wage job head-to-head with my experience as a new YouTube...</description>
+      <itunes:image href="https://i.ytimg.com/vi/Wxc5JYtrZpg/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=18MdvD8T71_1oVAa0rJduG-Bl-q2vCxC8&amp;export=download" length="9850202" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Why Don't We Feel We Can Retire With Numbers That Look Good?</title>
+      <link>https://www.youtube.com/watch?v=A3n8Z8cQVRU</link>
+      <guid isPermaLink="false">A3n8Z8cQVRU</guid>
+      <pubDate>Tue, 19 May 2026 16:37:14 -0500</pubDate>
+      <description>Retiring early is one thing. Trusting that you can stay retired is something completely different.
+
+In this episode, Ari responds to a listener who retired at 48 while her husband prepares to leave wo...</description>
+      <itunes:image href="https://i.ytimg.com/vi/A3n8Z8cQVRU/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=10BbclcNTnEbrwz_dZLAjOqJIANjYOvmZ&amp;export=download" length="6283937" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Watching my Father suffer changed how i see men. It's why I can't stay silent.</title>
+      <link>https://www.youtube.com/watch?v=w37-LLfr6AY</link>
+      <guid isPermaLink="false">w37-LLfr6AY</guid>
+      <pubDate>Tue, 19 May 2026 16:37:37 -0500</pubDate>
+      <description>#mgtow #menmatter #divorcetipsfordads #realstory...</description>
+      <itunes:image href="https://i.ytimg.com/vi/w37-LLfr6AY/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1NixpmbAh_xpz-zP6mo-BnkWyO5kMgbk5&amp;export=download" length="31983828" type="audio/m4a" />
     </item>
   </channel>
 </rss>
