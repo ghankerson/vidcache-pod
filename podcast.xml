@@ -4,8 +4,19 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Tue, 09 Jun 2026 21:44:42 -0500</lastBuildDate>
-    <itunes:image href="https://i.ytimg.com/vi/D4DFFQQBrdY/maxresdefault.jpg" />
+    <lastBuildDate>Tue, 09 Jun 2026 21:57:40 -0500</lastBuildDate>
+    <itunes:image href="https://i.ytimg.com/vi/lAbTmTxiOAQ/maxresdefault.jpg" />
+    <item>
+      <title>The easiest (&amp; laziest) way to get rich</title>
+      <link>https://www.youtube.com/watch?v=lAbTmTxiOAQ</link>
+      <guid isPermaLink="false">lAbTmTxiOAQ</guid>
+      <pubDate>Tue, 09 Jun 2026 21:57:21 -0500</pubDate>
+      <description>🚨 Reserve your seat for my FREE investing workshop: https://nischa.me/invest 🎓 Want the full roadmap?  Reserve your seat for my free workshop: https://nischa.me/invest 
+
+In this video, I break down ex...</description>
+      <itunes:image href="https://i.ytimg.com/vi/lAbTmTxiOAQ/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1LUAVDjCRyh-bTkTMSRThIjqm7NaM7ahD&amp;export=download" length="14201970" type="audio/m4a" />
+    </item>
     <item>
       <title>You Can't Retire In Your 50s Because You Are Stuck Here</title>
       <link>https://www.youtube.com/watch?v=D4DFFQQBrdY</link>
