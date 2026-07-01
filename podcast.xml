@@ -4,8 +4,17 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Wed, 01 Jul 2026 09:20:38 -0500</lastBuildDate>
-    <itunes:image href="https://i.ytimg.com/vi/azQaQnT8CJA/maxresdefault.jpg" />
+    <lastBuildDate>Wed, 01 Jul 2026 09:30:11 -0500</lastBuildDate>
+    <itunes:image href="https://i.ytimg.com/vi/cQ3FO4l_aWU/maxresdefault.jpg" />
+    <item>
+      <title>How I’m Cutting My Spending in Half (2026 Mid-Year Financial Reset)</title>
+      <link>https://www.youtube.com/watch?v=cQ3FO4l_aWU</link>
+      <guid isPermaLink="false">cQ3FO4l_aWU</guid>
+      <pubDate>Wed, 01 Jul 2026 09:29:52 -0500</pubDate>
+      <description>Hi Friends 💗 The first half of this year did not go exactly to plan, and my budget definitely felt the impact of life getting a bit chaotic. SOOO I'm doing a complete mid-year financial reset to revie...</description>
+      <itunes:image href="https://i.ytimg.com/vi/cQ3FO4l_aWU/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1xe3_IENur8KYiyntUl4JR6g6GYUbEV-c&amp;export=download" length="30127466" type="audio/m4a" />
+    </item>
     <item>
       <title>The Bear Market Data That Completely Changed My View on Retirement</title>
       <link>https://www.youtube.com/watch?v=azQaQnT8CJA</link>
