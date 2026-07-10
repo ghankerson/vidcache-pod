@@ -4,8 +4,28 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Wed, 08 Jul 2026 08:48:40 -0500</lastBuildDate>
-    <itunes:image href="https://i.ytimg.com/vi/mUUiEcTY1So/maxresdefault.jpg" />
+    <lastBuildDate>Fri, 10 Jul 2026 11:50:06 -0500</lastBuildDate>
+    <itunes:image href="https://i.ytimg.com/vi/s0nZCXyDTz4/maxresdefault.jpg" />
+    <item>
+      <title>EQ doesn't do what you think.....here's why</title>
+      <link>https://www.youtube.com/watch?v=s0nZCXyDTz4</link>
+      <guid isPermaLink="false">s0nZCXyDTz4</guid>
+      <pubDate>Fri, 10 Jul 2026 11:49:38 -0500</pubDate>
+      <description>Many people use AutoEQ to improve the sound of their headphones, but often find it still lacking or not actually 'fixing' much at all, today we dive into why and how you can fix it
+
+Become a channel m...</description>
+      <itunes:image href="https://i.ytimg.com/vi/s0nZCXyDTz4/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=10eJsoOpgN0hXigrThN8cyAIJnuRpIL41&amp;export=download" length="17592478" type="audio/m4a" />
+    </item>
+    <item>
+      <title>Michael Finke: Why Saving More Could Be a Mistake</title>
+      <link>https://www.youtube.com/watch?v=jmjWry8iNS8</link>
+      <guid isPermaLink="false">jmjWry8iNS8</guid>
+      <pubDate>Fri, 10 Jul 2026 11:49:43 -0500</pubDate>
+      <description>In this deep conversation, retirement researcher Michael Finke joins Erin to challenge one of the most deeply held beliefs in personal finance: is it possible to save too much for retirement? If you’r...</description>
+      <itunes:image href="https://i.ytimg.com/vi/jmjWry8iNS8/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=1Dc5vD27n54IpWicAU6AR-_O1Gj4GKMPz&amp;export=download" length="48079708" type="audio/m4a" />
+    </item>
     <item>
       <title>I Saved Six Figures While Making Less Than $50K Per Year</title>
       <link>https://www.youtube.com/watch?v=mUUiEcTY1So</link>
