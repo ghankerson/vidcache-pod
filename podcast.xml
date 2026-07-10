@@ -4,8 +4,20 @@
     <title>My VidCache Podcast</title>
     <link>https://github.com/ghankerson/vidcache-pod</link>
     <description>YouTube to Audio (Hybrid Hosting: Drive + GitHub)</description>
-    <lastBuildDate>Fri, 10 Jul 2026 11:50:06 -0500</lastBuildDate>
-    <itunes:image href="https://i.ytimg.com/vi/s0nZCXyDTz4/maxresdefault.jpg" />
+    <lastBuildDate>Fri, 10 Jul 2026 12:43:52 -0500</lastBuildDate>
+    <itunes:image href="https://i.ytimg.com/vi/DzrUQxpMciw/maxresdefault.jpg" />
+    <item>
+      <title>I'm pretty sure saving money is a lie...</title>
+      <link>https://www.youtube.com/watch?v=DzrUQxpMciw</link>
+      <guid isPermaLink="false">DzrUQxpMciw</guid>
+      <pubDate>Fri, 10 Jul 2026 12:43:39 -0500</pubDate>
+      <description>Thanks Ultima for sponsoring this video! Stay hydrated every single day with Ultima Replenisher: Head to https://ultima.yt.link/GYuehGy and use the code THATPRACTICALMOM20 for 20% off your order!
+
+
+Fo...</description>
+      <itunes:image href="https://i.ytimg.com/vi/DzrUQxpMciw/maxresdefault.jpg" />
+      <enclosure url="https://drive.google.com/uc?id=10lfA_eEMVfg1O2u2nxMgp38vb4fgldLy&amp;export=download" length="22663513" type="audio/m4a" />
+    </item>
     <item>
       <title>EQ doesn't do what you think.....here's why</title>
       <link>https://www.youtube.com/watch?v=s0nZCXyDTz4</link>
